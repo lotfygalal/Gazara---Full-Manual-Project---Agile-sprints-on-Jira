@@ -1,39 +1,73 @@
-# 🌐 Gazara | Web, App & Admin Panel
+# 🌐 Gazara | Full Project
 
 ### 🧩 Overview
-This repository includes **test documentation and scenarios** for Gazara’s multi-platform system — consisting of **Web, Mobile App, and Admin Panel**.  
-Developed in collaboration within **Agile sprints using Jira**, the testing process was based on both **SRS documents and Figma prototypes** to ensure full coverage across all user roles and modules.  
+This project showcases a collaborative QA effort within an Agile environment, where our team worked through multiple sprints to build and test the Gazara platform from the ground up.
+Starting from the user stories and epics, we designed detailed test cases, scenarios, and test plans aligned with product goals and sprint priorities.
+Using Jira as our project management tool, we tracked progress, logged defects, and ensured continuous quality delivery through iterative sprint reviews and QA validations.
+The result reflects a well-structured, cross-functional QA process integrating planning, execution, and reporting — all following Agile testing best practices.
 The project demonstrates complete **test lifecycle management** from requirement analysis to execution.
-
-<p align="center">
-  <img width="400" alt="Gazara Banner" src="https://github.com/user-attachments/assets/e6d02ea9-889f-4653-8c53-7f6d5d5870c7" />
-</p>
 
 ---
 
-### 📸 Project Screenshots
-
+### 📸 Project Samples
 <div align="center">
+  
+####  **Sample of SRS**
+
+
+<table>
+<tr>
+<td><img width="1200" alt="Coffee Cart Bug" src="https://github.com/user-attachments/assets/2fa9b673-4bc1-4812-af37-6018ec038831" /></td>
+</tr>
+</table>
+
+####  **Sample of Sprints**
+
   <table>
     <tr>
       <td align="center">
-        <img width="250" alt="Gazara Web" src="https://github.com/user-attachments/assets/b98fb027-5fd7-407b-81d5-3931470d12ce" />
+        <img width="800" alt="Home" src="https://github.com/user-attachments/assets/188fde4f-bd76-4293-9ff1-163e63167816" />
       </td>
       <td align="center">
-        <img width="250" alt="Gazara App" src="https://github.com/user-attachments/assets/cb65832d-dba3-4926-a867-69b4bf134f16" />
+        <img width="800" alt="Home2" src="https://github.com/user-attachments/assets/9494ae76-63e6-4202-94ff-98e26a33df1a" />
       </td>
     </tr>
   </table>
-</div>
 
+####  **Sample of Epics & UserStories**
+
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" alt="Home" src="https://github.com/user-attachments/assets/f90534e8-dcf2-4cc4-8627-ebdbf171b079" />
+      </td>
+      <td align="center">
+        <img width="400" alt="Home" src="https://github.com/user-attachments/assets/714871e3-6fcf-40a0-958d-59fca8fd1c89" />
+      </td> 
+      <td align="center">
+        <img width="400" alt="Home2" src="https://github.com/user-attachments/assets/b68eebe2-192a-4fea-b4c1-8c8366bafc78" />
+      </td>
+    </tr>
+  </table>
+
+####  **Sample of Test Cases**
+
+<table>
+<tr>
+<td><img width="1200" alt="Coffee Cart Bug" src="https://github.com/user-attachments/assets/cd861a66-7b19-4719-b7d1-622a05847e5d" /></td>
+</tr>
+</table>
+</div>
 ---
 
-### 🧠 What’s Inside
-- **Comprehensive test cases** for Web, App, and Admin Panel.  
-- **Agile collaboration** with Jira for sprint-based QA activities.  
-- **Requirement traceability** from SRS and Figma design assets.  
-- Full **test execution reports** with results and defect tracking.  
-- Perfect reference for **cross-platform manual testing projects**.  
+🧠 What’s Inside
+
+- Full Agile QA documentation covering user stories, epics, and sprint deliverables.
+- Detailed test cases and scenarios mapped directly to business requirements.
+- Collaborative test planning and execution tracked through Jira boards.
+- Defect reporting and traceability matrix ensuring visibility across the lifecycle.
+- Comprehensive test reports summarizing sprint outcomes and QA coverage.
+- Ideal example of team-based Agile testing workflow integrating Web, App & Admin modules.  
 
 ---
 
